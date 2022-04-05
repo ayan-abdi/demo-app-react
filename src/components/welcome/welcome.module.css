@@ -1,0 +1,15 @@
+.name {
+    color: magenta;
+    font-style: oblique;
+}
+
+.number {
+    color: lime;
+    font-family:'';
+}
+
+* {
+    background-color: black;
+    color: white;
+    
+}
